@@ -15,7 +15,7 @@
 
 </div>
 
-##"01" — About Me
+## "01" — About Me
 
 Hi! I'm Danial, a developer interested in building modern web applications and exploring creative technologies.
 
@@ -29,7 +29,7 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
 
 ---
 
-##"02" — Tech Stack
+## "02" — Tech Stack
 
 🌐 Web Development
 
@@ -45,7 +45,7 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
   <img src="https://skillicons.dev/icons?i=blender,unreal" alt="3D and game development tools"/>
 </p>---
 
-##"03" — What I'm Exploring
+## "03" — What I'm Exploring
 
 <div align="center">🌐 Web| 🎨 Creative
 Modern web applications| 3D modeling
@@ -54,7 +54,7 @@ Backend architecture| Game development
 
 </div>---
 
-##"04" — GitHub
+## "04" — GitHub
 
 <div align="center">
 
