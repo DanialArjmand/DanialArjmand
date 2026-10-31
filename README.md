@@ -9,7 +9,7 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;3D+%26+Game+Development;Learn.+Build.+Create."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;React+%7C+Next.js+%7C+Node.js;3D+%26+Game+Development;Learn.+Build.+Create."
   alt="Developer introduction"
 />
 
