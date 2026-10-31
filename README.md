@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=220&section=header&text=DANIAL%20ARJMAND&fontSize=48&fontColor=F1F5F9&fontAlignY=42&stroke=38BDF8&strokeWidth=2&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGIST&descSize=14&descAlignY=65&descColor=38BDF8&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=220&section=header&text=DANIAL%20ARJMAND&fontSize=48&fontColor=F1F5F9&fontAlignY=42&stroke=38BDF8&strokeWidth=2&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGIST&descSize=14&descAlignY=65&descColor=38BDF8&animation=fadeIn"
   width="100%"
   alt="Danial Arjmand"
 />
