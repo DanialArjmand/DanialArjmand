@@ -1,6 +1,19 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=DANIAL%20ARJMAND&fontSize=48&fontColor=58A6FF&stroke=58A6FF&animation=fadeIn&fontAlignY=45&desc=DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGIST&descSize=15&descAlignY=65" width="100%" alt="Danial Arjmand header"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development;React+%7C+Next.js+%7C+Node.js;Exploring+3D+Worlds+with+Blender;Creating+with+Unreal+Engine;Learn.+Build.+Improve." alt="Typing animation"/><br/>""GitHub" (https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/DanialArjmand)
+<div align="center">
 
-</div>---
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=220&section=header&text=DANIAL%20ARJMAND&fontSize=48&fontColor=F1F5F9&fontAlignY=42&stroke=38BDF8&strokeWidth=2&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGIST&descSize=14&descAlignY=65&descColor=38BDF8&animation=fadeIn"
+  width="100%"
+  alt="Danial Arjmand"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;3D+%26+Game+Development;Learn.+Build.+Create."
+  alt="Developer introduction"
+/>
+
+</div>
 
 "01" — About Me
 
@@ -43,11 +56,16 @@ Backend architecture| Game development
 
 "04" — GitHub
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialArjmand&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/><br/><br/>
+<div align="center">
 
-""GitHub Profile" (https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)" (https://github.com/DanialArjmand?tab=repositories)
+<a href="https://github.com/DanialArjmand">
+  <img
+    src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=F1F5F9"
+    alt="GitHub Profile"
+  />
+</a>
 
-</div>---
+</div>
 
 <div align="center">"BUILD • LEARN • CREATE"
 
