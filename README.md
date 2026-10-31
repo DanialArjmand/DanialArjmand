@@ -27,19 +27,21 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
 
 «I believe in learning by building and improving through consistency.»
 
-
-
 ## `02` — Tech Stack
 
 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" alt="Web development skills"/>
-</p>🧰 Tools & Workflow
+</p>
+
+🧰 Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
-</p>🎨 3D & Game Development
+</p>
+
+🎨 3D & Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender,unreal" alt="3D and game development tools"/>
