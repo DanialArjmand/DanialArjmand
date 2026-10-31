@@ -15,7 +15,7 @@
 
 </div>
 
-## "01" — About Me
+## `01` — About Me
 
 Hi! I'm Danial, a developer interested in building modern web applications and exploring creative technologies.
 
