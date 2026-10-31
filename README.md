@@ -51,7 +51,7 @@ the intersection of code, creativity, and 3D worlds.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanialArjmand&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=DanialArjmand&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialArjmand&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
