@@ -33,7 +33,7 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,nodejs" alt="Web development skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,react,nextjs,tailwind,nodejs" alt="Web development skills"/>
 </p>
 
 🧰 Tools & Workflow
