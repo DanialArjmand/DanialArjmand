@@ -27,7 +27,6 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
 
 «I believe in learning by building and improving through consistency.»
 
----
 
 ## `02` — Tech Stack
 
@@ -43,7 +42,7 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender,unreal" alt="3D and game development tools"/>
-</p>---
+</p>
 
 ## `03` — What I'm Exploring
 
