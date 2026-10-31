@@ -28,6 +28,7 @@ Hi! I'm Danial, a developer interested in building modern web applications and e
 «I believe in learning by building and improving through consistency.»
 
 
+
 ## `02` — Tech Stack
 
 🌐 Web Development
@@ -51,7 +52,7 @@ Modern web applications| 3D modeling
 Full-stack development| Real-time 3D
 Backend architecture| Game development
 
-</div>---
+</div>
 
 ## `04` — GitHub
 
